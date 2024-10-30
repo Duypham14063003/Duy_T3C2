@@ -6,25 +6,7 @@
       <p>Một số dự án mà mình đã thực hiện bao gồm: Web quản lí đặt xe, web bán caffee, web quản lí phòng khám </p>
       <p>Mình đã làm việc với nhiều công nghệ như JavaScript, React, .NET, Firebase, HTML5, Java, MongoDB và Node.js. Mỗi công nghệ đều mang lại cho mình những góc nhìn mới và cơ hội phát triển.</p>
       <p>Mình rất mong muốn được kết nối với những người có cùng đam mê và chia sẻ kinh nghiệm. Nếu bạn muốn trao đổi ý tưởng hoặc hợp tác trong các dự án công nghệ, hãy liên hệ với mình qua:</p>
-      <div align="center">
-       <a href="https://discord.gg/tDutPXW8" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100021273803858" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-</a>
-<a href="mailto:ngotran296yh@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-</a>
-<a href="https://www.instagram.com/06.trust/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-</a>
-      </div>
-    </td>
-    <td style="text-align: center; vertical-align: top;">
-      <img height="200" width="200" src="https://i.pinimg.com/originals/5b/59/b9/5b59b930e55668208b77cb9708a0fa3c.gif" /><br />
-      <img src="https://profile-counter.glitch.me/ngotran29/count.svg?" />
-    </td>
+
   </tr>
 </table>
 
